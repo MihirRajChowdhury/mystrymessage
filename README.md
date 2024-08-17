@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## About the Project
+
+Sometimes people have many things that they want to say to other but they feel what would happen if they shared it how will people think about them. That is WHy fear not I have made an online review-sharing project Where people can share their thoughts with others without fearing what others would think as it wouldn't display their information.
+
+In this project People can message other people anonymously and when they do it their messages will be stored in the receiver's messages section and it will be displayed to him. Receiver can also toggle on and off between when they are accepting messages and when they are not. You can access this project here https://ama-app-givr.vercel.app/
+
+
 ## Getting Started
 
 First, run the development server:
